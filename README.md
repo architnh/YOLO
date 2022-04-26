@@ -1,3 +1,4 @@
-# road_object_detection_computervison
+# Road Object Detection Using Computer Vision
 
-<img src=docs/CIS520_ProjectReport_ArchitHardikar_RohitBhikule.pdf > <p></p>
+Report Link- <p></p>
+https://github.com/architnh/road_object_detection_computervison/blob/main/docs/CIS520_ProjectReport_ArchitHardikar_RohitBhikule.pdf
